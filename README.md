@@ -15,4 +15,4 @@ ManyOrder is a backend API for a multi-tenant ordering system where merchants ca
 - RESTful API design
 
 ## Project Status
-🚧 In development
+In development
