@@ -35,9 +35,10 @@ It allows customers to place orders, merchants to manage orders (including manua
 
 ---
 
-## API Access
+## API Documentation
 
-Swagger UI:
+Run the application locally and access Swagger UI at:
+
 http://localhost:8080/swagger-ui/index.html
 
 ---
